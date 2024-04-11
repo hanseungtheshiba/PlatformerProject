@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MEESprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 197471fe681848b41877f442a773b6cc, type: 3}
+    - {fileID: 2800000, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+    - {fileID: 2800000, guid: 55efaabc236f1724ca1c291dee25395b, type: 3}
+    - {fileID: 2800000, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+    - {fileID: 2800000, guid: 33adf5d5429873d4b87ea252d0dcebb0, type: 3}
+    - {fileID: 2800000, guid: b9af80c04ce5db142b1c21e036f198c7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b9af80c04ce5db142b1c21e036f198c7, type: 3}
+  - {fileID: -2981853535294864584, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 5317390445774891480, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 8546651313757460808, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 4238392241544082116, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 5705200689632289572, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -5309727548883063121, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -8890683808323699150, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -7329400682536799628, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 7346458574507513144, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 396250460026734245, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -7087365435701088917, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -619428420836354516, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 4901931872187285293, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 5932502030351118280, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 7305156960379297450, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -722983547408761787, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 9199157571955986566, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -5639176979723056031, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -734397311817281492, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 262089331723223322, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 5440932195034276674, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -3280505333968596489, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 2316527743542659455, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: 3074028313723626853, guid: a2238224eae5d2343aac5af4e3349cd2, type: 3}
+  - {fileID: -9186558917151910778, guid: 33adf5d5429873d4b87ea252d0dcebb0, type: 3}
+  - {fileID: -7638669750015954505, guid: 33adf5d5429873d4b87ea252d0dcebb0, type: 3}
+  - {fileID: -2650148251510449282, guid: 33adf5d5429873d4b87ea252d0dcebb0, type: 3}
+  - {fileID: 2322759947903987858, guid: 33adf5d5429873d4b87ea252d0dcebb0, type: 3}
+  - {fileID: 4284684421114291845, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: -5397750920153071603, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: -5209251823262861144, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: -6101537807208611024, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: 1053128917049471962, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: 3386398104049418772, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: 4475375876111409798, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: 8749302817991680212, guid: acccd6673dc7528469f03af1a7d03094, type: 3}
+  - {fileID: 5032351099696674128, guid: 55efaabc236f1724ca1c291dee25395b, type: 3}
+  - {fileID: -8227546954408941770, guid: 55efaabc236f1724ca1c291dee25395b, type: 3}
+  - {fileID: 5856585005746452560, guid: 55efaabc236f1724ca1c291dee25395b, type: 3}
+  - {fileID: -3178617384780871938, guid: 55efaabc236f1724ca1c291dee25395b, type: 3}
+  - {fileID: -5553164157804176644, guid: 197471fe681848b41877f442a773b6cc, type: 3}
+  - {fileID: -6727339698268992364, guid: 197471fe681848b41877f442a773b6cc, type: 3}
+  - {fileID: -8452508012867386177, guid: 197471fe681848b41877f442a773b6cc, type: 3}
+  - {fileID: 1615136837810021565, guid: 197471fe681848b41877f442a773b6cc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Marija_Face_Full
+  - Marija_0
+  - Marija_1
+  - Marija_2
+  - Marija_3
+  - Marija_4
+  - Marija_5
+  - Marija_6
+  - Marija_7
+  - Marija_8
+  - Marija_9
+  - Marija_13
+  - Marija_12
+  - Marija_11
+  - Marija_10
+  - Marija_17
+  - Marija_16
+  - Marija_15
+  - Marija_14
+  - Marija_22
+  - Marija_23
+  - Marija_20
+  - Marija_19
+  - Marija_21
+  - Marija_18
+  - Marija_Face_2
+  - Marija_Face_3
+  - Marija_Face_0
+  - Marija_Face_1
+  - Goblin_7
+  - Goblin_6
+  - Goblin_5
+  - Goblin_4
+  - Goblin_3
+  - Goblin_2
+  - Goblin_1
+  - Goblin_0
+  - HealthBar_Mana
+  - HealthBar_Frame
+  - BaseFrame
+  - HealthBar_Health
+  - Dogtag_0
+  - Dogtag_1
+  - Dogtag_2
+  - Dogtag_3
+  m_RenderDataMap: {}
+  m_Tag: MEESprites
+  m_IsVariant: 0

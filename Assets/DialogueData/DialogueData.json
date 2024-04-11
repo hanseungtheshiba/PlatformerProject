@@ -1,0 +1,64 @@
+{
+	"dialogueGroupList":[
+		{
+			"id": "intro",
+			"dialogueList": [
+				{
+					"facePosition": 1,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "살아남은 사람이.. 나밖에 없다고?"
+				},
+				{
+					"facePosition": 1,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "말도 안 돼..."
+				},
+				{
+					"facePosition": 1,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "아직 숨이 붙어있는 누군가가 있을지 몰라."
+				},
+				{
+					"facePosition": 1,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "찾아보자."
+				}
+			]
+		},
+		{
+			"id": "test",
+			"dialogueList": [
+				{
+					"facePosition": 1,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "왼쪽에서 출력한다."
+				},
+				{
+					"facePosition": 2,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "오른쪽에서 출력한다."
+				},
+				{
+					"facePosition": 0,
+					"faceSpriteName": "",
+					"dialogue": "그림이 없다."
+				}
+			]
+		},
+		{
+			"id": "door_locked",
+			"dialogueList": [
+				{
+					"facePosition": 0,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "문이 잠겨있다."
+				},
+				{
+					"facePosition": 0,
+					"faceSpriteName": "Marija_Face_Full",
+					"dialogue": "어디선가 열쇠를 구해야 할 것 같은데."
+				}
+			]
+		}
+	]
+}
