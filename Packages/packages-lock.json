@@ -71,11 +71,11 @@
       }
     },
     "com.unity.addressables": {
-      "version": "1.21.19",
+      "version": "1.21.20",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.scriptablebuildpipeline": "1.21.21",
+        "com.unity.scriptablebuildpipeline": "1.21.22",
         "com.unity.modules.assetbundle": "1.0.0",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
@@ -104,7 +104,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
-      "version": "2.9.5",
+      "version": "2.9.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -169,7 +169,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.scriptablebuildpipeline": {
-      "version": "1.21.21",
+      "version": "1.21.22",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -217,11 +217,11 @@
       }
     },
     "kr.go.ggm.poolmanager": {
-      "version": "https://github.com/gghteam/PoolManager.git",
+      "version": "https://github.com/hanseungtheshiba/PoolManager.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "413f69418888789e3a1e78b787e8d7cfbd158444"
+      "hash": "6efc2024edfad9330b5e01b5ea735faf2e1d076f"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
